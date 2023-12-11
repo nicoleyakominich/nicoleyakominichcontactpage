@@ -63,7 +63,7 @@ html, body {
   background-image: url("images/sunsetbackground.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  /*background-attatchment: fixed;*/
+  background-attachment: fixed;
   background-position: center;
 
   
